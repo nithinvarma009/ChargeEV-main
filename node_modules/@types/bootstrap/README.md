@@ -1,0 +1,16 @@
+# Installation
+> `npm install --save @types/bootstrap`
+
+# Summary
+This package contains type definitions for bootstrap (https://v5.getbootstrap.com/).
+
+# Details
+Files were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/bootstrap.
+
+### Additional Details
+ * Last updated: Tue, 01 Dec 2020 21:53:34 GMT
+ * Dependencies: [@types/jquery](https://npmjs.com/package/@types/jquery), [@types/popper.js](https://npmjs.com/package/@types/popper.js)
+ * Global values: `Bootstrap`
+
+# Credits
+These definitions were written by [denisname](https://github.com/denisname), [Piotr Błażejewicz](https://github.com/peterblazejewicz), and [Martin Badin](https://github.com/martin-badin).
